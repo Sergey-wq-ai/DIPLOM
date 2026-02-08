@@ -1,0 +1,6 @@
+pytest>=8.3.5
+selenium>=4.34.2
+requests>=2.32.3
+allure-pytest>=2.15.0
+python-dotenv>=1.0.1
+pytest-repeat>=0.9.4
